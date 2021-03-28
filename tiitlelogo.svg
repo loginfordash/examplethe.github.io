@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="242mm"
+   height="113mm"
+   viewBox="0 0 242 113"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="tiitlelogo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="363.43994"
+     inkscape:cy="120.03312"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1267"
+     inkscape:window-height="1040"
+     inkscape:window-x="156"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="56.318453,298.51191"
+       orientation="0,-1"
+       id="guide18" />
+    <sodipodi:guide
+       position="0.37797619,218.75893"
+       orientation="1,0"
+       id="guide20" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g977"
+       transform="matrix(3.7460176,0,0,3.7460176,-207.62862,-197.63014)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:16.0986px;line-height:1.25;font-family:'Georgia Pro';-inkscape-font-specification:'Georgia Pro Bold Condensed';word-spacing:0.0482961px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.402;stroke-miterlimit:4;stroke-dasharray:none"
+         x="55.627125"
+         y="66.622803"
+         id="text12"
+         transform="scale(1.0145852,0.98562446)"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="55.627125"
+           y="66.622803"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'Georgia Pro';-inkscape-font-specification:'Georgia Pro Bold Condensed';fill:#ffffff;fill-opacity:1;stroke-width:0.402;stroke-miterlimit:4;stroke-dasharray:none">Tittle</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1899px;line-height:1.25;font-family:'Vermin Vibes V';-inkscape-font-specification:'Vermin Vibes V';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.354748"
+         x="57.074409"
+         y="79.546806"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           x="57.074409"
+           y="79.546806"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vermin Vibes V';-inkscape-font-specification:'Vermin Vibes V';fill:#ffffff;fill-opacity:1;stroke-width:0.354748">Press</tspan></text>
+    </g>
+  </g>
+</svg>
