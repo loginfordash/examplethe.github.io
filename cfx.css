@@ -1,0 +1,4 @@
+.card-footer {
+    background-color: #4ee492;
+    color: var(--brand-card-footer-color,none);
+}
